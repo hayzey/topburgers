@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Aussie Beef and Bacon Classic",
+		"ingredients": ["Ground beef", "Bacon", "Cheese", "Lettuce", "Tomato", "Beetroot", "Onion", "Tomato sauce"],
+		"price": 12,
+		"image": "images/beefburger.jpg"
+	},
+	{
+		"name": "Grilled Chicken Burger",
+		"ingredients": ["Grilled chicken", "Lettuce", "Tomato", "Onion", "Mayonnaise"],
+		"price": 11,
+		"image": "images/chickenburger.jpg"
+	},
+	{
+		"name": "Pulled Pork Burger",
+		"ingredients": ["Pulled pork", "Coleslaw", "Pickles", "Onion", "Cheese", "Smoky bbq sauce"],
+		"price": 14,
+		"image": "images/porkburger.jpg"
+	}
+]

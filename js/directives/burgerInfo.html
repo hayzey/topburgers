@@ -1,0 +1,8 @@
+<div>
+	<img ng-src="{{ info.image }}">
+	<div class="text-wrapper">
+		<h4>{{ info.name }}</h4>
+		<p class="price">{{ info.price | currency }}</p>
+		<p class="ingredients"><strong>Ingredients</strong> - {{ info.ingredients.join(', ')}}</p>
+	</div>
+</div>
